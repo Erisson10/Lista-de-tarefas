@@ -25,5 +25,7 @@ E podendo também com apenas dois cliques excluir a tarefa que desejar.</p>
 </ul>
 <br>
 <br>
+<h2>Deploy</h2>
+<p><a href=""></a>Acesse aqui o site!</p>
 <img src="https://github.com/Erisson10/Lista-de-tarefas/blob/main/Lista-de-tarefas%20(2).png?raw=true">
 
