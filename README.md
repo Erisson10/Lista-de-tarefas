@@ -23,4 +23,7 @@ E podendo também com apenas dois cliques excluir a tarefa que desejar.</p>
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+<br>
+<br>
+<img src="https://github.com/Erisson10/Lista-de-tarefas/blob/main/Lista-de-tarefas%20(2).png?raw=true">
 
